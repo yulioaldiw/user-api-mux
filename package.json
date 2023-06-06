@@ -1,0 +1,12 @@
+{
+  "name": "user-api-mux",
+  "version": "1.0.0",
+  "description": "User API with Gorrila/Mux",
+  "main": "main.go",
+  "scripts": {
+    "start": "go run main.go",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
